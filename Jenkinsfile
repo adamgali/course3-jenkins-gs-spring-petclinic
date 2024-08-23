@@ -26,7 +26,7 @@ pipeline {
     
     post {
         always {
-            echo "Notify failed build jobs by email from here."
+            echo "Notify failed build jobs by email from here!."
         }
     }
     
